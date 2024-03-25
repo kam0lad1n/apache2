@@ -1,0 +1,33 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>KundalikLogIn</title>
+</head>
+<body>
+    <div class="login"  style="
+    background-color: rgb(50, 50, 141);
+width: 100%;        
+height: 60px;
+text-align: center;
+        
+        
+        
+        
+        ">
+<h1  style="font-family: cursive; color: rgb(218, 221, 207); align-items: center;">eMaktab</h1>
+    </div>
+<br><br><br><br><br><br>
+
+
+
+
+<div class="password"  style=" display: inline; ">
+        <input type="username" placeholder="login" >
+    <input type="password" placeholder="password">
+</div>
+
+</body>
+</html>
